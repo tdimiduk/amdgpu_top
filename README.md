@@ -1,6 +1,6 @@
 # AMDGPU\_TOP
-`amdgpu_top` is tool that display AMD GPU utilization, like [umr](https://gitlab.freedesktop.org/tomstdenis/umr/) or [clbr/radeontop](https://github.com/clbr/radeontop) or [intel_gpu_top](https://gitlab.freedesktop.org/drm/igt-gpu-tools/-/blob/master/man/intel_gpu_top.rst).  
-The tool displays information gathered from performance counters (GRBM, GRBM2, CP_STAT), sensors, fdinfo, and AMDGPU driver.  
+`amdgpu_top` is a tool that displays AMD GPU utilization, like [umr](https://gitlab.freedesktop.org/tomstdenis/umr/) or [clbr/radeontop](https://github.com/clbr/radeontop) or [intel_gpu_top](https://gitlab.freedesktop.org/drm/igt-gpu-tools/-/blob/master/man/intel_gpu_top.rst).  
+The tool displays information gathered from performance counters (GRBM, GRBM2, CP_STAT), sensors, fdinfo, and the AMDGPU driver.  
 
 ![amdgpu_top screenshot](/docs/ss0.png)
 
